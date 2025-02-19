@@ -35,7 +35,7 @@ This repository contains my solution for the **[GO DATA SCIENCE 4.0 Hackathon](h
    - The winning team achieved a public score of **0.8189** and a private score of **0.7996**.
 2. **My Performance**:
    - Achieved a public score of **0.7686** and a private score of **0.7528**.
-   - Ranked **42rd**, placing in the top 14% of participants.
+   - Ranked **42rd**, placing in the top 22% of participants.
 
 3. **Leaderboard Insights**:
    - A small gap between public and private scores indicates robust models.
