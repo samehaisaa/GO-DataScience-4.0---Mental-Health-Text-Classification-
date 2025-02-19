@@ -11,7 +11,7 @@ This repository contains my solution for the **[GO DATA SCIENCE 4.0 Hackathon](h
 ## 🏅 Competition Results
 
 ### Final Leaderboard Performance
-- **Rank**: 42 out of 309 participants
+- **Rank**: 42 out of 194  participants
 - **Validation Accuracy**: 74.4%
 - **Public Leaderboard Score**: 0.7528
 - **Private Leaderboard Score**: 0.7371
