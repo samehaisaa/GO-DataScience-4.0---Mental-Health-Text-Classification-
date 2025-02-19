@@ -1,0 +1,13 @@
+.gitignore:
+*.pyc
+__pycache__/
+*.pth
+*.pt
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+data/cache/
+results/
+logs/
+wandb/
+.env
