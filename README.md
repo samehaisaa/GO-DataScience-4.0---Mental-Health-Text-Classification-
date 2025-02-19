@@ -4,14 +4,14 @@
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](requirements.txt)
 [![Zindi](https://img.shields.io/badge/Zindi-Platform-blue)](https://zindi.africa/competitions/go-data-science-40-mental-health-challenge/)
 
-This repository contains my solution for the **[GO DATA SCIENCE 4.0 Hackathon](https://zindi.africa/competitions/go-data-science-40-mental-health-challenge/)** hosted on Zindi, where I achieved **[43rd place](https://zindi.africa/users/SamehAissa/competitions/certificate)** out of 194 participants. The challenge focused on classifying mental health-related text discussions into predefined categories using Natural Language Processing (NLP) techniques.
+This repository contains my solution for the **[GO DATA SCIENCE 4.0 Hackathon](https://zindi.africa/competitions/go-data-science-40-mental-health-challenge/)** hosted on Zindi, where I achieved **[42rd place](https://zindi.africa/users/SamehAissa/competitions/certificate)** out of 194 participants. The challenge focused on classifying mental health-related text discussions into predefined categories using Natural Language Processing (NLP) techniques.
 
 ---
 
 ## 🏅 Competition Results
 
 ### Final Leaderboard Performance
-- **Rank**: 43 out of 309 participants
+- **Rank**: 42 out of 309 participants
 - **Validation Accuracy**: 74.4%
 - **Public Leaderboard Score**: 0.7528
 - **Private Leaderboard Score**: 0.7371
@@ -35,7 +35,7 @@ This repository contains my solution for the **[GO DATA SCIENCE 4.0 Hackathon](h
    - The winning team achieved a public score of **0.8189** and a private score of **0.7996**.
 2. **My Performance**:
    - Achieved a public score of **0.7686** and a private score of **0.7528**.
-   - Ranked **43rd**, placing in the top 14% of participants.
+   - Ranked **42rd**, placing in the top 14% of participants.
 
 3. **Leaderboard Insights**:
    - A small gap between public and private scores indicates robust models.
@@ -77,6 +77,6 @@ The model's performance was evaluated using **Accuracy** as the primary metric.
 
 4. **Evaluation**:
    - Achieved **~76.8% Public Accuracy** on the validation set.
-   - Secured **43rd place** on the final leaderboard.
+   - Secured **42rd place** on the final leaderboard.
 
 ---
