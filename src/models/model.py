@@ -1,7 +1,7 @@
 import os
 import torch
 from torch.utils.data import Dataset
-
+import pandas as pd
 class MentalHealthDataset(Dataset):
     def __init__(self, texts, labels=None, cache_dir='./cache', tokenizer=None):
         self.texts = texts.tolist() if isinstance(texts, pd.Series) else texts
