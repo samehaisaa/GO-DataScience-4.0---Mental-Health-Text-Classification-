@@ -57,7 +57,6 @@ The model's performance was evaluated using **Accuracy** as the primary metric.
 
 ---
 
-## 🚀 My Approach
 
 ### Key Steps
 1. **Data Preprocessing**:
@@ -80,3 +79,13 @@ The model's performance was evaluated using **Accuracy** as the primary metric.
    - Secured **42rd place** on the final leaderboard.
 
 ---
+## 🔮 Future Improvements
+1. **Deployement**:
+   - Build a Streamlit/Gradio app for real-time predictions.
+   - Deploy the model using FastAPI or Flask.
+
+
+2. **Explainability**:
+    -Use SHAP or LIME to explain model predictions.
+
+    -Visualize attention weights for transformer models.
