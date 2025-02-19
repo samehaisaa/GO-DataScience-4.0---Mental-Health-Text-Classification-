@@ -81,11 +81,13 @@ The model's performance was evaluated using **Accuracy** as the primary metric.
 ---
 ## 🔮 Future Improvements
 1. **Deployement**:
-   - Build a Streamlit/Gradio app for real-time predictions.
-   - Deploy the model using FastAPI or Flask.
+   - Build a **Streamlit**/**Gradio** app for real-time predictions.
+   - Deploy the model using **FastAPI** or **Flask**.
 
 
 2. **Explainability**:
-    -Use SHAP or LIME to explain model predictions.
-
-    -Visualize attention weights for transformer models.
+    - Use **SHAP** or **LIME** to explain model predictions.
+    - Visualize attention weights for transformer models.
+3. **Advanced Models**:
+    - Experiment with **DeBERTa**, **GPT-based models**, or **ensemble methods**.
+    - Use **knowledge distillation** to combine multiple models.
