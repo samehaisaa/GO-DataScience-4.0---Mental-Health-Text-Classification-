@@ -58,7 +58,7 @@ The goal was to develop a model that accurately classifies text entries (titles 
 |-----|--------------------------------|------------------------------------------------------|------------|
 | 101 | Feeling Hopeless and Lost      | I've been struggling with depression for a while... | Depression |
 | 102 | Panic Attacks Are Getting Worse | Lately, my panic attacks have been more frequent... | Anxiety    |
-|
+
 
 ### Evaluation Metric
 The model's performance was evaluated using **Private Accuracy** as the primary metric.
